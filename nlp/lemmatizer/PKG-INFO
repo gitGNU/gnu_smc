@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Lemmatizer
+Version: 0.1
+Summary: Rule Based Malayalam Lemmatizer
+Home-page: http://smc.org.in/Payyans
+Author: Santhosh Thottingal
+Author-email: santhosh.thottingal@gmail.com
+License: http://www.gnu.org/copyleft/gpl.html
+Description: This is a python library for Malayalam Lemmatization
+
